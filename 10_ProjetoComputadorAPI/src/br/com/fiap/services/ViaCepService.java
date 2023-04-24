@@ -1,4 +1,4 @@
-package br.com.fiap.service;
+package br.com.fiap.services;
 
 import java.io.IOException;
 
@@ -12,7 +12,7 @@ import org.apache.http.util.EntityUtils;
 
 import com.google.gson.Gson;
 
-import br.com.fiap.model.Endereco;
+import br.com.fiap.models.Endereco;
 
 public class ViaCepService {
 
